@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{F448952D-A3E3-48B6-AAAF-5C2F5090A770}|Default">
+  <MonoDevelop.Ide.ItemProperties.HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/HttpCookie.cs">
+    <Files>
+      <File FileName="HelloWorld/Program.cs" Line="24" Column="1" />
+      <File FileName="HelloWorld/Vehicle.cs" Line="10" Column="10" />
+      <File FileName="HelloWorld/Car.cs" Line="4" Column="29" />
+      <File FileName="HelloWorld/Person.cs" Line="11" Column="10" />
+      <File FileName="HelloWorld/Point.cs" Line="18" Column="24" />
+      <File FileName="HelloWorld/HttpCookie.cs" Line="17" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlankApp" expanded="True">
+            <Node name="HelloWorld" expanded="True">
+              <Node name="HttpCookie.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
